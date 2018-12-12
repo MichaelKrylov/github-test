@@ -6,6 +6,7 @@ public class Start : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+using stroy 
 
     }
 
